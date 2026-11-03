@@ -1,0 +1,12 @@
+node_modules/
+.dist/
+.DS_Store
+.vscode/
+.idea/
+# Vite cache
+.vite/
+# Build output
+/dist/
+# Env files
+.env
+.env.local
